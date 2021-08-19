@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Trvl/static/css/main.4f7fd911.chunk.css",
+    "main.js": "/Trvl/static/js/main.8d2e772c.chunk.js",
+    "main.js.map": "/Trvl/static/js/main.8d2e772c.chunk.js.map",
+    "runtime-main.js": "/Trvl/static/js/runtime-main.fef38383.js",
+    "runtime-main.js.map": "/Trvl/static/js/runtime-main.fef38383.js.map",
+    "static/js/2.ee92030b.chunk.js": "/Trvl/static/js/2.ee92030b.chunk.js",
+    "static/js/2.ee92030b.chunk.js.map": "/Trvl/static/js/2.ee92030b.chunk.js.map",
+    "index.html": "/Trvl/index.html",
+    "static/css/main.4f7fd911.chunk.css.map": "/Trvl/static/css/main.4f7fd911.chunk.css.map",
+    "static/js/2.ee92030b.chunk.js.LICENSE.txt": "/Trvl/static/js/2.ee92030b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Trvl/static/media/img-8.fabdf94d.jpg",
+    "static/media/img-3.6d683c0e.jpg": "/Trvl/static/media/img-3.6d683c0e.jpg",
+    "static/media/img-4.a31875b7.jpg": "/Trvl/static/media/img-4.a31875b7.jpg",
+    "static/media/img-9.f97f588f.jpg": "/Trvl/static/media/img-9.f97f588f.jpg",
+    "static/media/video-2.39e6c79b.mp4": "/Trvl/static/media/video-2.39e6c79b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fef38383.js",
+    "static/js/2.ee92030b.chunk.js",
+    "static/css/main.4f7fd911.chunk.css",
+    "static/js/main.8d2e772c.chunk.js"
+  ]
+}
